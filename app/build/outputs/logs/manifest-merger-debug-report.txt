@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:17:1-44:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+	package
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:1-192:12
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:5:5-54
+	android:glEsVersion
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:5:19-51
+uses-feature#android.hardware.camera
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:21:19-57
+uses-permission#android.permission.CAMERA
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:26:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:39:22-77
+application
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:51:5-190:19
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:28:5-42:19
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:28:5-42:19
+	android:supportsRtl
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:58:9-36
+	android:label
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:53:9-41
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:55:9-40
+	android:icon
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:52:9-38
+	android:allowBackup
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:56:9-35
+	android:description
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:54:9-54
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:57:9-47
+meta-data#com.google.ar.core
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:62:9-81
+	android:value
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:62:54-78
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:62:20-53
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivitySplashScreen
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:80:10-91:21
+	android:screenOrientation
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:83:13-49
+	android:noHistory
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:84:13-37
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:82:13-93
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:81:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:86:13-90:29
+action#android.intent.action.MAIN
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:87:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:89:17-77
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:89:27-74
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivityLauncher
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:93:9-98:20
+	android:screenOrientation
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:95:13-93
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:94:13-61
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.AboutScreen
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:100:10-106:20
+	android:screenOrientation
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:103:13-49
+	android:noHistory
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:104:13-37
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:102:13-93
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:101:13-56
+activity#com.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:108:9-114:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:112:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:110:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:111:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:109:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.ModelTargets.ModelTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:116:9-123:20
+	android:screenOrientation
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:119:13-50
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:121:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:118:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:120:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:117:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.GroundPlane.GroundPlane
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:125:9-132:20
+	android:screenOrientation
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:128:13-50
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:130:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:127:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:129:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:126:13-56
+activity#com.vuforia.samples.VuforiaSamples.app.VuMark.VuMark
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:134:9-140:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:138:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:136:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:137:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:135:13-46
+activity#com.vuforia.samples.VuforiaSamples.app.CylinderTargets.CylinderTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:142:9-148:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:146:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:144:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:145:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:143:13-64
+activity#com.vuforia.samples.VuforiaSamples.app.VirtualButtons.VirtualButtons
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:150:9-156:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:154:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:152:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:153:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:151:13-62
+activity#com.vuforia.samples.VuforiaSamples.app.UserDefinedTargets.UserDefinedTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:158:9-164:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:162:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:160:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:161:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:159:13-70
+activity#com.vuforia.samples.VuforiaSamples.app.MultiTargets.MultiTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:166:9-172:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:170:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:168:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:169:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:167:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.CloudRecognition.CloudReco
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:174:9-180:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:178:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:176:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:177:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:175:13-59
+activity#com.vuforia.samples.VuforiaSamples.app.ObjectRecognition.ObjectTargets
+ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:182:9-188:20
+	android:launchMode
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:186:13-44
+	android:configChanges
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:184:13-93
+	android:theme
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:185:13-51
+	android:name
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml:183:13-64
+uses-sdk
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:26:5-47
+MERGED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:26:5-47
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		ADDED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		MERGED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android code\vuforia\vuforia_simple\app\src\main\AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.1.0] C:\Users\Zrd\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\68e925e7b9f73fcad00fd011d909ab58\AndroidManifest.xml:40:13-62
